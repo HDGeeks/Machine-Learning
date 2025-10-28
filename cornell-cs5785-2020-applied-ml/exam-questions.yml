@@ -1,0 +1,14 @@
+chapter1 Basics of Machine Learning:
+  - What are differences between reinforcement learning and supervised learning?
+  - What is a “loss function”? Name two examples.
+  - What is “x” und “y” in a “supervised learning dataset”?
+  - What is a “bag of words”-Representation?
+
+chapter2.1 Optimization:
+  - Explain the concept of derivative.
+  - What is the purpose of optimization in machine learning?
+  - Explain and understand the concept of gradient descent.
+  - In which direction does the derivative point?
+
+
+
