@@ -10,5 +10,14 @@ chapter2.1 Optimization:
   - Explain and understand the concept of gradient descent.
   - In which direction does the derivative point?
 
+chapter2.2 flipped classroom questions:
+  - Why should I split my labeled data?
+  - What is overfitting? Name one potential reason for overfitting.
+  - How is the Tuning Set also called?
+  - What are elements of a confusion matrix?
+  - What does a probabilistic classifier produce?
+  - What are limits of binary classification metrics when applied in NLP?
+
+
 
 
