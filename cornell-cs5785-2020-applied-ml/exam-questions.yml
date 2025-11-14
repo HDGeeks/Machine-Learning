@@ -18,6 +18,11 @@ chapter2.2 flipped classroom questions:
   - What does a probabilistic classifier produce?
   - What are limits of binary classification metrics when applied in NLP?
 
-
+chapter3:Neural Networks:
+  - Why is the quadratic loss not ideal for binary classification?
+  - How is the output of an artificial neuron (perceptron) calculated?
+  - What are the benefits of using several neurons in an artificial neural
+    net?
+  - Name two options to reduce the risk of overfitting.
 
 
