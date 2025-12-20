@@ -1,16 +1,16 @@
-chapter1 Basics of Machine Learning:
+Lecture_1 Basics of Machine Learning:
   - What are differences between reinforcement learning and supervised learning?
   - What is a “loss function”? Name two examples.
   - What is “x” und “y” in a “supervised learning dataset”?
   - What is a “bag of words”-Representation?
 
-chapter2.1 Optimization:
+Lecture_2.1 Optimization:
   - Explain the concept of derivative.
   - What is the purpose of optimization in machine learning?
   - Explain and understand the concept of gradient descent.
   - In which direction does the derivative point?
 
-chapter2.2 flipped classroom questions:
+Lecture_2.2 flipped classroom questions:
   - Why should I split my labeled data?
   - What is overfitting? Name one potential reason for overfitting.
   - How is the Tuning Set also called?
@@ -18,11 +18,16 @@ chapter2.2 flipped classroom questions:
   - What does a probabilistic classifier produce?
   - What are limits of binary classification metrics when applied in NLP?
 
-chapter3:Neural Networks:
+Lecture_3:Neural Networks:
   - Why is the quadratic loss not ideal for binary classification?
   - How is the output of an artificial neuron (perceptron) calculated?
   - What are the benefits of using several neurons in an artificial neural
     net?
   - Name two options to reduce the risk of overfitting.
 
-
+Lecture_4: Static Word Embeddings:
+  - What is “distributional semantics” about?
+  - Name a distributional representation of words that is not learned by
+    machine learning.
+  - What is the input and output dimensions of the word2vec model?
+  - What is a softmax function?
