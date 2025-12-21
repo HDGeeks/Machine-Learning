@@ -1,0 +1,17 @@
+﻿Name;Size;"First name";"Last name";Downloads;Date;Path
+01-TFIDF.ipynb;11133;Simon;Werner;118;"26.10.2025 23:47";01-TFIDF.ipynb
+01-Torch_Intro.ipynb;34527;Simon;Werner;109;"27.10.2025 10:02";01-Torch_Intro.ipynb
+02-Gradients_-_Derivatives_-_Linear_Models.ipynb;17150;Simon;Werner;98;"03.11.2025 09:56";02-Gradients_-_Derivatives_-_Linear_Models.ipynb
+02-MSE_Backward.pdf;94085;Simon;Werner;153;"10.11.2025 10:03";02-MSE_Backward.pdf
+03-Training_-_Validation_-_Testing.ipynb;20288;Simon;Werner;71;"10.11.2025 10:03";03-Training_-_Validation_-_Testing.ipynb
+04-Forward_Calculation.pdf;104641;Simon;Werner;102;"24.11.2025 10:11";04-Forward_Calculation.pdf
+04-W2V.ipynb;8797;Simon;Werner;46;"24.11.2025 10:11";04-W2V.ipynb
+train.csv;115697;Simon;Werner;33;"25.11.2025 15:33";train.csv
+05-LSTM.ipynb;25677;Simon;Werner;39;"01.12.2025 09:54";05-LSTM.ipynb
+05-Lstm_Calculation_Solution.pdf;56922;Simon;Werner;77;"01.12.2025 10:08";05-Lstm_Calculation_Solution.pdf
+05-Lstm_Calculation.pdf;99340;Simon;Werner;95;"01.12.2025 10:08";05-Lstm_Calculation.pdf
+Challenge_Instructions.pdf;212666;Simon;Werner;47;"12.12.2025 09:33";Challenge_Instructions.pdf
+format_checker.py;880;Simon;Werner;29;"12.12.2025 10:08";format_checker.py
+baseline.py;1756;Simon;Werner;35;"12.12.2025 10:29";baseline.py
+06-Attention_Calculation.pdf;71295;Simon;Werner;48;"12.12.2025 15:56";06-Attention_Calculation.pdf
+06-TransformerEncoder.ipynb;91343;Simon;Werner;28;"15.12.2025 10:02";06-TransformerEncoder.ipynb
