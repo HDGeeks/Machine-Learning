@@ -31,3 +31,44 @@ Lecture_4: Static Word Embeddings:
     machine learning.
   - What is the input and output dimensions of the word2vec model?
   - What is a softmax function?
+
+Lecture_5: Language Models
+  - What is a “neural language model”? What is the advantage over ngrams.
+  - What is the difference between contextualized word embeddings vs
+    static word embeddings (like e.g., from word2vec)?
+  - How do RNNs overcome the limited window size?
+  - How many gates are in an LSTM?
+
+Lecture_6: Transformers - Encoders
+  - Which context does a W2V embedding capture compared to an RNN
+    embedding?
+  - What is self-attention?
+  - What context does a Bert embedding capture?
+  - What does an attention weight in Bert do?
+
+Lecture_7: Transformers - Decoders and Applications
+  - What block is not used in the GPT decoder compared to the Bert
+    decoder?
+  - What is in-context learning?
+  - Name an example where decoders tend to fail.
+
+Lecture_8: Pre-training and Large Language Models
+- What is the difference between training and inference?
+- What is the typical pre-training objective in bidirectional encoders vs autoregressive decoders?
+- Is there a way to mimic masked language modeling in autoregressive decoders?
+- What is main source of data for pre-training?
+- What is the context window of Llama 3?
+
+Lecture_9: Post-Training
+- How does Post Training differ from Unsupervised Pretraining?
+- Name examples for typical NLU benchmarking tasks.
+- What is the difference between Supervised Finetuning Data and
+  Reinforcement Learning?
+- Name different ways to obtain Supervised Finetuning data.
+
+Lecture_10: prompting and tools
+- What is the difference between “few-shot supervised learning” and “few-shot in-context learning”?
+- Name typical elements of a prompt?
+- Describe a few popular prompting techniques
+- Name tasks that plain LLMs don’t handle well, but other tools do
+- Name techniques that mitigate those shortcomings of LLMs
