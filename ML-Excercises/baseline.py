@@ -19,7 +19,7 @@ count_vect = CountVectorizer()
 runs = 0
 f1_total = 0
 for _ in range(100):
-    train = pd.read_csv('train.csv',sep=",")
+    train = pd.read_csv('/Users/hd/Desktop/Machine Learning/ML-Excercises/train.csv',sep=",")
     test = train.sample(frac=0.05)
     train = train.drop(test.index)
 

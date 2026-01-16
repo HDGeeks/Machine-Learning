@@ -12,7 +12,7 @@ def checkSubmission(path):
     print ("All formatted correctly")
         
 if __name__ == "__main__":
-    checkSubmission("predictions.csv") 
+    checkSubmission("/Users/hd/Desktop/Machine Learning/ML-Excercises/predictions_Daniel_Tesfai_Kebede_1716694.csv") 
     '''
     change to your actual file! Note that the expected format is: "predictions_{name}_{matrikelnummer}"
     example: "predictions_John_Wayne_1029591"
