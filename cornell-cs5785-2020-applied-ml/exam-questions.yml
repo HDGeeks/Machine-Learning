@@ -72,3 +72,9 @@ Lecture_10: prompting and tools
 - Describe a few popular prompting techniques
 - Name tasks that plain LLMs don’t handle well, but other tools do
 - Name techniques that mitigate those shortcomings of LLMs
+
+Lecture_11: Multi-modal and Multilingual Models
+- Name technical challenges of multilingual LLMs
+- What core component needs to be added to make an LLM multimodal?
+- How does an MCP-Client find out if there is a suitable tool provided by an MCP-Server?
+- What is the difference wrt inference of “LLMs”, “RAG”, “Tool Use” and “Multi agent” with respect to their control logic?
