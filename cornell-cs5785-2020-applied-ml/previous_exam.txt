@@ -1,4 +1,4 @@
-1.Diff b/w parameters and hyperparameters
+1.Diff between parameters and hyperparameters
 2.MSE calculation
 3.All 3 problems
 4.Batch Training algorithm
