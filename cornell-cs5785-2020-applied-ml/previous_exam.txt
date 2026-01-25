@@ -3,6 +3,6 @@
 3.All 3 problems
 4.Batch Training algorithm
 5.overfitting and underfitting
-6.⁠ ⁠How contexualised word embeddings r related to self attention mechanism
+6.⁠ ⁠How contexualised word embeddings arr related to self attention mechanism
 7.Training of LLM
-8.⁠ ⁠How to the bais outputs of LLM look?How it can be reduced?
+8.⁠ ⁠How to the unbais outputs of LLM look? How it can be reduced?
