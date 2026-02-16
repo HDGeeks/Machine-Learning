@@ -52,8 +52,11 @@ for value in my_generator():
 
 # Q4 . what is the task and function of mudules in python .
 # 
-# Modules in python are files that end with extenstion .py . They are used to implement classes and functions .<br>
-# Their main task is to assit in code reusability and structure . This is done by importing files from one to another <br> and use the code from the imported.
+# Modules in python are files that end with extenstion .py .
+#  They are used to implement classes and functions .<br>
+# Their main task is to assit in code reusability and structure .
+#  This is done by importing files from one to another
+#  <br> and use the code from the imported.
 
 # Q5 . . Define the class Fireworks with the two subclasses firecrackers and rockets. Make sure that these two subclasses inherit at least two properties from their superclass and in turn define at least two more properties. define at least two more properties. Also define suitable __init__ and __str__ methods.
 
